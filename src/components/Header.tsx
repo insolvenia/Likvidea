@@ -24,7 +24,7 @@ export const Header: React.FC<HeaderProps> = ({ onMenuToggle, isMenuOpen }) => {
             <img
               src="/likvidea.svg" // eller byt till /likvidea.png
               alt="Likvidea"
-              className="h-20 w-auto" // justera storleken här (t.ex. h-14 eller h-16)
+              className="h-30 w-auto" // justera storleken här (t.ex. h-14 eller h-16)
             />
           </a>
 
