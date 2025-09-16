@@ -58,7 +58,7 @@ export const Hero: React.FC = () => {
             {/* Disclaimer */}
             <div className="mb-8 p-4 bg-gray-50 rounded-xl border border-gray-200 animate-slide-up" style={{ animationDelay: '0.25s' }}>
               <p className="text-sm text-gray-600 text-center">
-                Direktlikvid är en oberoende förmedlare. Vi vidarebefordrar din förfrågan till noga utvalda finanspartners/banker. Inga bindande erbjudanden lämnas på denna sida.
+                Likvidea är en oberoende förmedlare. Vi vidarebefordrar din förfrågan till noga utvalda finanspartners/banker. Inga bindande erbjudanden lämnas på denna sida.
               </p>
             </div>
 
@@ -105,7 +105,6 @@ export const Hero: React.FC = () => {
                     <span className="bg-primary-600 text-white rounded-full px-3 py-1 text-sm font-medium mr-3">
                       Så funkar det
                     </span>
-                    <span className="text-sm text-slate-500 font-medium">Tre snabba steg</span>
                   </div>
                 </div>
                 
@@ -116,7 +115,7 @@ export const Hero: React.FC = () => {
                     </div>
                     <div>
                       <span className="font-semibold text-slate-900">Skicka förfrågan</span>
-                      <p className="text-sm text-slate-600">1–2 minuter</p>
+                      <p className="text-sm text-slate-600"></p>
                     </div>
                   </div>
                   
@@ -136,14 +135,13 @@ export const Hero: React.FC = () => {
                     </div>
                     <div>
                       <span className="font-semibold text-slate-900">Du får förslag & väljer</span>
-                      <p className="text-sm text-slate-600">Obligationsfria förslag</p>
+                      <p className="text-sm text-slate-600"></p>
                     </div>
                   </div>
                 </div>
                 
                 <div className="border-t border-slate-200 pt-6 mt-6">
                   <p className="text-sm text-slate-600 text-center">
-                    Obligationsfria förslag. Ingen kreditrisk för leverantör.
                   </p>
                 </div>
               </div>
